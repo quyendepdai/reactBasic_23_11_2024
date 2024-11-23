@@ -1,0 +1,6 @@
+- b1 set up environment  (nvm nodejs)
+- b2 create project
+  + npx create-react-app nameApp
+    cd nameApp
+    npm start
+  + 
